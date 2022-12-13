@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.2.4",
     "@angular/platform-browser-dynamic": "~8.2.4",
     "@angular/router": "~8.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ng-snotify": "^4.3.1",
     "ngx-spinner": "^8.0.3",
     "nodemon": "^2.0.4",
